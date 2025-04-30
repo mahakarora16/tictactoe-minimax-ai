@@ -21,5 +21,7 @@ It features a clean aesthetic UI and an **unbeatable AI opponent** powered by th
 The computer uses the Minimax algorithm, which ensures:
 
 It never loses
+
 It chooses the optimal move every turn
+
 At worst, the game ends in a draw
